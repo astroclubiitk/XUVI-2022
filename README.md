@@ -1,4 +1,4 @@
-# Summer Project 2022: XUVI!
+# Summer Project 2022: XUVI
 ## Astronomy Club, SnT Council, IITK
 
 Project resources and assignments will be pushed to this repository on a pereodic basis. The submission to the assignments are to be made <a href="https://github.com/Rajarshi1001/XUVI_Astro">here</a>.
