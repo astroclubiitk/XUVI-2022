@@ -10,7 +10,10 @@ Project resources and assignments will be pushed to this repository on a pereodi
 │   README.md
 │
 ├── Project Report
-│   └── Mid Term Presentation.pdf
+│   ├── Documentation.pdf
+│   ├── End Term Presentation.pdf
+│   ├── Mid Term Presentation.pdf
+│   └── Poster.pdf
 ├── Week 1
 │   ├── Assignment 1.ipynb
 │   ├── Intro to python.ipynb
@@ -45,7 +48,7 @@ Project resources and assignments will be pushed to this repository on a pereodi
     │   ├── ch2_xsm_20201111_v1_level2.lc
     │   ├── ch2_xsm_20210403_v1_level2.lc
     │   └── ch2_xsm_20210508_v1_level2.lc
-    ├── Flare Detection.ipynb
+    ├── Flare.ipynb
     └── Preprocessing.ipynb
 ```
 
