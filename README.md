@@ -52,6 +52,9 @@ Project resources and assignments will be pushed to this repository on a pereodi
     └── Preprocessing.ipynb
 ```
 
+## Abstract
+Astronomical solar flare data is extremely noisy and needs proper filtering and noise reduction. During the project, we shall look into the applications of different computing libraries of python, in reading and analysing different datasets. Astronomical Spectroscopy, Exoplanets, Light Curves would be theoretical foundations for giving rise to the importance of python implementation in astronomy. The aim would be to implement computational techniques in observing and plotting data, pre processing of the data, applying spectrum analysis, and then moving on to developing our own algorithm for modelling the flares as a concluding remark. A very interesting part of the project would be crafting a basic model of spectroscope which would provide the analysis of the spectrum of sunlight at different times of the day.
+
 ## Mentors
 - Rajarshi Dutta (<a href="https://github.com/Rajarshi1001">@Rajarshi1001</a>)
 - Adit Jain (<a href="https://github.com/Jadit19">@Jadit19</a>)
